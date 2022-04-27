@@ -1,0 +1,6 @@
+﻿  JosephRing.cpp
+  defs.h(30,1) OVERFLOW常量已经被定义
+D:\Projects\DataStructureHomework\JosephRing\JosephRing.cpp(165,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\DataStructureHomework\JosephRing\JosephRing.cpp(176,12): warning C4018: “>=”: 有符号/无符号不匹配
+D:\Projects\DataStructureHomework\JosephRing\JosephRing.cpp(160,6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\DataStructureHomework\JosephRing\JosephRing.cpp(162,6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,4 @@
+﻿  ExpressionCalcuate.cpp
+  defs.h(30,1) OVERFLOW常量已经被定义
+D:\Projects\DataStructureHomework\ExpressionCalcuate\ExpressionCalcuate.cpp(76): warning C4715: “getPriority”: 不是所有的控件路径都返回值
+  ExpressionCalcuate.vcxproj -> D:\Projects\DataStructureHomework\Debug\2.ExpressionCalcuate.exe

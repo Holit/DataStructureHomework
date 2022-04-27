@@ -1,0 +1,5 @@
+﻿  Exam.cpp
+  defs.h(30,1) OVERFLOW常量已经被定义
+D:\Projects\DataStructureHomework\Exam\Exam.h(325,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\DataStructureHomework\Exam\Exam.h(339,21): warning C4018: “<”: 有符号/无符号不匹配
+  Exam.vcxproj -> D:\Projects\DataStructureHomework\Debug\7.Exam.exe

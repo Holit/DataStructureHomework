@@ -1,0 +1,3 @@
+﻿  TutorialSystem.cpp
+D:\Projects\DataStructureHomework\TutorialSystem\TutorialSystem.cpp(154,33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  TutorialSystem.vcxproj -> D:\Projects\DataStructureHomework\Debug\3.TutorialSystem.exe

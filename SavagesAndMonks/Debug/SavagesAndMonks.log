@@ -1,0 +1,5 @@
+﻿  SavagesAndMonks.cpp
+D:\Projects\DataStructureHomework\SavagesAndMonks\SavagesAndMonks.h(37,1): warning C4305: “=”: 从“int”到“bool”截断
+  defs.h(30,1) OVERFLOW常量已经被定义
+D:\Projects\DataStructureHomework\SavagesAndMonks\SavagesAndMonks.cpp(81,39): warning C4806: “!=”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+  SavagesAndMonks.vcxproj -> D:\Projects\DataStructureHomework\Debug\5.SavagesAndMonks.exe

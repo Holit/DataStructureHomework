@@ -1,0 +1,6 @@
+﻿  FileCompression.cpp
+  defs.h(30,1) OVERFLOW常量已经被定义
+D:\Projects\DataStructureHomework\FileCompression\FileCompression.cpp(296,12): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“unsigned int”
+D:\Projects\DataStructureHomework\FileCompression\FileCompression.cpp(296,12): message : 请考虑在格式字符串中使用“%zd”
+D:\Projects\DataStructureHomework\FileCompression\FileCompression.cpp(426,37): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+  FileCompression.vcxproj -> D:\Projects\DataStructureHomework\Debug\4.FileCompression.exe
